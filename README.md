@@ -9,6 +9,11 @@ A Python package for analyzing and visualizing molecular files. This package con
 
 This repo is currently under development. To do a developmental install, download this repo and type `pip install -e .`
 
+Following modules must be installed:
+
+Numpy
+Matplotlib
+
 ### Copyright
 
 Copyright (c) 2021, Mushir Thodika
