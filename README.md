@@ -19,6 +19,8 @@ Features should be developed on branches. To create and switch to a branch, use 
 To switch back to an existing branch, use
 `git checkout new_branch`
 
+added this line on github!
+
 ### Copyright
 
 Copyright (c) 2021, Mushir Thodika
